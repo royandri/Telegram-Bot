@@ -4,7 +4,7 @@
 
 
 #Requirements:
-- Python
+- Python3
 - Ngrok (WebHook)
 - pip3 install bottle requests
 - pip3 install virtualenv 
