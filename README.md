@@ -28,4 +28,6 @@
 
 
 #Notes
+* You can googling how to get telegram bot token
 * Make sure that your computer have internet connection to run the bot
+
