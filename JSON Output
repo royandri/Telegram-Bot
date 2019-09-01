@@ -1,0 +1,187 @@
+group
+{
+    'update_id': 858300907, 
+    'message': {
+        'message_id': 168, 
+        'from': {
+            'id': 605360117, 
+            'is_bot': False, 
+            'first_name': 'Roy', 
+            'last_name': 'Andri', 
+            'username': 'royandri', 
+            'language_code': 
+            'en'
+        }, 
+        'chat': {
+            'id': -265900722, 
+            'title': 'Test', 
+            'type': 'group', 
+            'all_members_are_administrators': False
+        }, 
+        'date': 1566980329, 
+        'text': '/greeting', 
+        'entities': [{
+            'offset': 0, 
+            'length': 9, 
+            'type': 'bot_command'
+        }]
+    }
+}
+
+Personal
+{
+    'update_id': 858300911, 
+    'message': {
+        'message_id': 172, 
+        'from': {
+            'id': 605360117, 
+            'is_bot': False, 
+            'first_name': 'Roy', 
+            'last_name': 'Andri', 
+            'username': 'royandri', 
+            'language_code': 'id'
+        },
+        'chat': {
+            'id': 605360117, 
+            'first_name': 'Roy', 
+            'last_name': 'Andri', 
+            'username': 'royandri', 
+            'type': 'private'
+        }, 
+        'date': 1566980862, 
+        'text': '\\greeting'
+    }
+}
+
+
+Add user
+
+{
+    'update_id': 858300917, 
+    'message': {
+        'message_id': 183, 
+        'from': {
+            'id': 605360117, 
+            'is_bot': False, 
+            'first_name': 'Roy', 
+            'last_name': 'Andri', 
+            'username': 'royandri', 
+            'language_code': 'id'
+        },
+        'chat': {
+            'id': -265900722, 
+            'title': 
+            'Test', 
+            'type': 'group', '
+            all_members_are_administrators': False
+        }, 
+        'date': 1566981605, 
+        'new_chat_participant': {
+            'id': 775179495, 
+            'is_bot': False, 
+            'first_name': 'putwinanda', 
+            'username': 'putwin', 
+            'language_code': 
+            'id'
+        }, 
+        'new_chat_member': {
+            'id': 775179495, 
+            'is_bot': False, 
+            'first_name': 
+            'putwinanda', 
+            'username': 
+            'putwin', 
+            'language_code': 'id'
+        }, 
+        'new_chat_members': [{'id': 775179495, 'is_bot': False, 'first_name': 'putwinanda', 'username': 'putwin', 'language_code': 'id'}]}}
+
+User Join
+{
+    'update_id': 858300921, 
+    'message': {
+        'message_id': 187, 
+        'from': {
+            'id': 775179495, 
+            'is_bot': False, 
+            'first_name': 
+            'putwinanda', 
+            'username': 
+            'putwin', 
+            'language_code': 'id'
+        }, 
+        'chat': {
+            'id': -265900722, 
+            'title': 'Test', 
+            'type': 'group', 
+            'all_members_are_administrators': False
+        }, 
+        'date': 1566981890, 
+        'new_chat_participant': {
+            'id': 775179495, 
+            'is_bot': False, 
+            'first_name': 
+            'putwinanda', 
+            'username': 'putwin', 
+            'language_code': 'id'
+        }, 
+        'new_chat_member': {'id': 775179495, 'is_bot': False, 'first_name': 'putwinanda', 'username': 'putwin', 'language_code': 'id'}, 'new_chat_members': [{'id': 775179495, 'is_bot': False, 'first_name': 'putwinanda', 'username': 'putwin', 'language_code': 'id'}]}}
+
+left
+
+{
+    'update_id': 858300930,
+    'message': {
+        'message_id': 204,
+        'from': {
+            'id': 605360117,
+            'is_bot': False,
+            'first_name': 'Roy',
+            'last_name': 'Andri',
+            'username': 'royandri',
+            'language_code': 'id'
+        },
+        'chat': {
+            'id': -265900722,
+            'title': 'Test',
+            'type': 'group',
+            'all_members_are_administrators': False
+        },
+        'date': 1566982730,
+        'left_chat_participant': {
+            'id': 740281900,
+            'is_bot': False,
+            'first_name': 'imam abdul azis'
+        },
+        'left_chat_member': {
+            'id': 740281900,
+            'is_bot': False,
+            'first_name': 'imam abdul azis'
+        }
+    }
+}
+
+User group chat
+{
+    'update_id': 858300943,
+    'message': {
+        'message_id': 226,
+        'from': {
+            'id': 740586717,
+            'is_bot': False,
+            'first_name': 'Aris'
+        },
+        'chat': {
+            'id': -265900722,
+            'title': 'Benedict',
+            'type': 'group',
+            'all_members_are_administrators': False
+        },
+        'date': 1567049666,
+        'text': '/nxnx',
+        'entities': [{
+            'offset': 0,
+            'length': 5,
+            'type': 'bot_command'
+        }]
+    }
+}
